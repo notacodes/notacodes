@@ -1,5 +1,5 @@
 # Hi there 👋
-##🔭 I’m currently working on
+## 🔭 I’m currently working on
 📕learning the basics of programming <br>
 💻creating a weather dashboard
 
