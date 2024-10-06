@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nota:
-<br>📕I am currently learning the basics of programming<br><br>🔭 I’m currently working on<br>💻creating a weather dashboard<br>
+<br>📕I am currently learning the basics of programming<br><br> ## 🔭 I’m currently working on<br>💻creating a weather dashboard<br>
 
 
 ## 🌐 Socials:
