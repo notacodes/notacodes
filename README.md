@@ -1,5 +1,5 @@
 # Hi there 👋
-Hi there 👋<br>🔭 I’m currently working on<br>📕learning the basics of programming<br>💻creating a weather dashboard
+🔭 I’m currently working on<br>📕learning the basics of programming<br>💻creating a weather dashboard
 
 
 ## 🌐 Socials:
